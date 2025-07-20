@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     author='amah esther',
     author_email='estherkouao9@gmail.com',
-    url='https://github.com/Estherkouao/packageapp.git',
+    url='https://github.com/Estherkouao/packagecreation.git',
     install_requires=[
         'django>=5.2.4',
     ],
