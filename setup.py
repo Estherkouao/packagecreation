@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     license='MIT',
-    description='Application Django pour ,
+    description='Application Django pour' ,
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='amah esther',
