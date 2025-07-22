@@ -1,0 +1,1 @@
+python -m utiliseapp.generate
